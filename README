@@ -1,3 +1,16 @@
+dubbo - app test
+================
+
+simple-monitor
+--------------
+
+1. eclipse run test
+
+    doubbo-monitor-simple/test/SimpleMonitor
+    
+install
+----------
+
 For more, please refer to:
 
     http://code.alibabatech.com/wiki/display/dubbo

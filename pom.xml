@@ -42,6 +42,7 @@
 	</organization>
 	<modules>
     <module>dubbo-demo</module>
+    <module>dubbo-simple</module>
 	</modules>
 	<profiles>
 		<profile>
